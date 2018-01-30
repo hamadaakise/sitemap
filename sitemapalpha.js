@@ -1,6 +1,3 @@
-<div>
-<ul id="postList12"></ul>
-</div>
 <script type="text/javascript">
 /*sitemap alphabetis by haq*/
 var startIndex = 1;
