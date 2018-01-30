@@ -12,7 +12,7 @@ function sendQuery12()
 
 function printArrayResults(root)
 {  
-   //Sort Alphebetically
+   //alpabetis pendek
    allResults.sort(function(a, b){
         var a_string = a.children[0].textContent ;
         var b_string = b.children[0].textContent ;
